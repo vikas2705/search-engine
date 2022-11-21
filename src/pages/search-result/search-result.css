@@ -1,0 +1,14 @@
+.google-logo{
+    width: 150px;
+}
+
+.w50per{
+    width: 50%;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.search-result-filters{
+    border-bottom: 1px solid grey;
+}

@@ -1,0 +1,15 @@
+.home-body .input-group-text {
+    border-radius: 50%;
+    background-color: transparent;
+}
+
+.home-body .input-group input {
+    border-left: none;
+    border-right: none;
+}
+
+.home-body .input-group input.form-control:focus {
+    border-color: #ced4da;
+    outline: none;
+    box-shadow: none;
+}
